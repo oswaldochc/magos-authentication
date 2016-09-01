@@ -36,13 +36,7 @@
     "zendframework/zend-validator": "Zend\\Validator component"
   },
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "extra": {
-    "branch-alias": {
-      "dev-master": "2.5-dev",
-      "dev-develop": "2.6-dev"
-    }
-  },
+  "prefer-stable": true,  
   "autoload-dev": {
     "psr-4": {
       "MagosTest\\Authentication\\": "test/"
